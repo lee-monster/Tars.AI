@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "team": "Team Tars.AI",
+    "products": "\uc81c\ud488 \uc18c\uac1c",
+    "service": "\uc11c\ube44\uc2a4",
+    "contact": "\ubb38\uc758\ud558\uae30"
+  },
+  "hero": {
+    "title": "\uae30\uc220\ub85c \uad6d\ubc29\uc744 \ud601\uc2e0\ud558\ub2e4",
+    "subtitle": "Tars.AI\ub294 \ud604\uc2e4\uc5d0 \uc801\uc6a9\ub418\ub294 \uc790\uc728 \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4."
+  },
+  "team": {
+    "title": "Team Tars.AI",
+    "description": "\uc6b0\ub9ac\ub294 AI\uc758 \uac1c\ubc1c, \ubc30\ud3ec, \uc2e0\ub8b0 \ubc29\uc2dd\uc744 \ud601\uc2e0\ud558\uae30 \uc704\ud574 Tars.AI\ub97c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4. \uae30\uc220\uacfc \uc804\ub7b5\uc774 \uc735\ud569\ub41c \ud300\uc785\ub2c8\ub2e4."
+  },
+  "products": {
+    "title": "\uc81c\ud488 \uc18c\uac1c",
+    "designer": {
+      "title": "Tars-Designer",
+      "desc": "\ub514\uc790\uc778\uc744 \uc704\ud55c AI \ud06c\ub9ac\uc5d0\uc774\ud2f0\ube0c \ub3d9\ubc18\uc790\uc785\ub2c8\ub2e4."
+    },
+    "programmer": {
+      "title": "Tars-Programmer",
+      "desc": "\ube60\ub974\uace0 \uc2e0\ub8b0\uc131 \uc788\ub294 AI \ucf54\ub529 \ud30c\ud2b8\ub108\uc785\ub2c8\ub2e4."
+    },
+    "chatbot": {
+      "title": "Tars-Chatbot",
+      "desc": "\uc815\ud655\ud558\uace0 \uacf5\uac10\ub825 \uc788\ub294 \ub300\ud654\ud615 AI\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4."
+    }
+  },
+  "service": {
+    "title": "\uc11c\ube44\uc2a4",
+    "description": "\ubaa8\ub4e0 Tars.AI \uc194\ub8e8\uc158\uc5d0 \ub300\ud55c \uc720\uc9c0\ubcf4\uc218, \uc6b4\uc601, \uc5c5\ub370\uc774\ud2b8\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4."
+  },
+  "contact": {
+    "title": "\ubb38\uc758\ud558\uae30",
+    "description": "\uc5b8\uc81c\ub4e0 \uc5f0\ub77d \uc8fc\uc138\uc694.",
+    "form": {
+      "name": "\uc131\ud568",
+      "email": "\uc774\uba54\uc77c",
+      "message": "\uc694\uccad\uc0ac\ud56d",
+      "submit": "\ubcf4\ub0b4\uae30"
+    },
+    "email": "\u2709 contact@tars.com"
+  },
+  "footer": {
+    "corp": "\u00a9 2025 Tars.AI | \uc0ac\uc5c5\uc790\ub4f1\ub85d\ubc88\ud638 123-45-67890 | \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+    "contact": "\ubb38\uc758\uc0ac\ud56d\uc774 \uc788\uc73c\uba74 contact@tars.com \uc73c\ub85c \uc5f0\ub77d\uc8fc\uc138\uc694"
+  }
+}

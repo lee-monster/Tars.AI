@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "team": "Team Tars.AI",
+    "products": "Products",
+    "service": "Service",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transforming Defense with Technology",
+    "subtitle": "Tars.AI delivers advanced autonomous solutions for real-world operations."
+  },
+  "team": {
+    "title": "Team Tars.AI",
+    "description": "We started Tars.AI to revolutionize the way AI is built, deployed and trusted. Our team combines deep tech and visionary strategy."
+  },
+  "products": {
+    "title": "Our Products",
+    "designer": {
+      "title": "Tars-Designer",
+      "desc": "AI-powered creative companion for stunning designs."
+    },
+    "programmer": {
+      "title": "Tars-Programmer",
+      "desc": "AI that codes alongside you\u2014fast, reliable, contextual."
+    },
+    "chatbot": {
+      "title": "Tars-Chatbot",
+      "desc": "Conversational AI built for scale, empathy and precision."
+    }
+  },
+  "service": {
+    "title": "Service",
+    "description": "We provide comprehensive maintenance, operation, and updates for all Tars.AI solutions."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "email": "\u2709 contact@tars.com"
+  },
+  "footer": {
+    "corp": "\u00a9 2025 Tars.AI Inc. | Business No. 123-45-67890 | Seoul, Korea",
+    "contact": "Contact us anytime at contact@tars.com"
+  }
+}
